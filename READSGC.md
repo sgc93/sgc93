@@ -22,3 +22,11 @@ Contact me via :-
 </a>
 
 <a href="https://www.instagram.com/invites/contact/?i=1uixiopigjr0e&utm_content=kfy746p"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/smachew-gedefaw-725923257/">
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
+<a href="https://app.slack.com/client/T0195LMKD1R/C029LQNUYK1/rimeto_profile/U03E5VCTSN7" > ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) </a>
+
+<a href="https://t.me/Sgc_21219"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a>
